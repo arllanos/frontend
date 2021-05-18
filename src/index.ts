@@ -16,6 +16,7 @@ export {
   Execution,
   ExecutionType,
   Value,
+  ListOperationOptions,
 } from './mlmd/generated/ml_metadata/proto/metadata_store_pb';
 export {
   MetadataStoreServicePromiseClient

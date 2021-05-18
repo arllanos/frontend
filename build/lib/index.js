@@ -9,6 +9,7 @@ exports.Event = metadata_store_pb_1.Event;
 exports.Execution = metadata_store_pb_1.Execution;
 exports.ExecutionType = metadata_store_pb_1.ExecutionType;
 exports.Value = metadata_store_pb_1.Value;
+exports.ListOperationOptions = metadata_store_pb_1.ListOperationOptions;
 var metadata_store_service_grpc_web_pb_1 = require("./mlmd/generated/ml_metadata/proto/metadata_store_service_grpc_web_pb");
 exports.MetadataStoreServicePromiseClient = metadata_store_service_grpc_web_pb_1.MetadataStoreServicePromiseClient;
 var metadata_store_service_pb_1 = require("./mlmd/generated/ml_metadata/proto/metadata_store_service_pb");
